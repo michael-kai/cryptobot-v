@@ -1,0 +1,1 @@
+worker: python3 binance_bot/start_worker.py

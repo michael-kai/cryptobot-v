@@ -1,0 +1,4 @@
+aiogram==2.19
+requests==2.27.1
+python-decouple==3.6
+pylint==2.12
