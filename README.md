@@ -1,6 +1,7 @@
 **Goal** - create a small project with minimal budget and real business-task
 Attention! This project is not a money-making guide
-Description - each hour bot makes an HTTP request to Binance API and uses simple logic to decide when to buy and sell ETH cryptocurrency. After making a request, the bot sends a notification to the Telegram channel with statistics and alerts.
+
+**Description** - each hour bot makes an HTTP request to Binance API and uses simple logic to decide when to buy and sell ETH cryptocurrency. After making a request, the bot sends a notification to the Telegram channel with statistics and alerts.
 The bot can be deployed to Heroku.
 At this point, the bot emulates buying and selling. This way, I'm testing the buy/sell strategy.
 When ETH price rises to the needed level, I will add real buy/sell functions.
